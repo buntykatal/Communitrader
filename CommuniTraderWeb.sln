@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommuniTraderDal", "CommuniTraderDal\CommuniTraderDal.csproj", "{49A5B547-A806-4ABF-BFB1-17D0DCCC513B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommuniTraderBal", "CommuniTraderBal\CommuniTraderBal.csproj", "{0B528276-8223-41C9-9ABB-3F5932EDCAE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{14C25AFB-9149-47C4-889A-41900DE6A719}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		WebEssentials2015-Settings.json = WebEssentials2015-Settings.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommuniTraderWeb", "CommuniTraderWeb\CommuniTraderWeb.csproj", "{A7CE71D1-7E87-4EE5-9FA3-6AF9044B0331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A5B547-A806-4ABF-BFB1-17D0DCCC513B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A5B547-A806-4ABF-BFB1-17D0DCCC513B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A5B547-A806-4ABF-BFB1-17D0DCCC513B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A5B547-A806-4ABF-BFB1-17D0DCCC513B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B528276-8223-41C9-9ABB-3F5932EDCAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B528276-8223-41C9-9ABB-3F5932EDCAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B528276-8223-41C9-9ABB-3F5932EDCAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B528276-8223-41C9-9ABB-3F5932EDCAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7CE71D1-7E87-4EE5-9FA3-6AF9044B0331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CE71D1-7E87-4EE5-9FA3-6AF9044B0331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CE71D1-7E87-4EE5-9FA3-6AF9044B0331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CE71D1-7E87-4EE5-9FA3-6AF9044B0331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625C328D-138B-4942-9C4A-61080EB90929}
+	EndGlobalSection
+EndGlobal
